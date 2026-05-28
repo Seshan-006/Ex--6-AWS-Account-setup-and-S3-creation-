@@ -1,4 +1,4 @@
-# Ex--2-AWS-Account-setup-and-S3-creation
+# Ex--3-AWS-Account-setup-and-S3-creation
 
 ## Name : SESHAN J
 ## reg.no : 212224220092
